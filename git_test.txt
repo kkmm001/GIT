@@ -1,2 +1,4 @@
 it's costly to reach here
 git is a copycat of catalog
+
+Git has a mutable index called stage.
